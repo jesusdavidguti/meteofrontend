@@ -1,1 +1,0 @@
-# Trabajo del tema 6
