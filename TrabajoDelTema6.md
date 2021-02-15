@@ -113,7 +113,7 @@ RECURSOS:
 
 ​	Como se indica en el punto anterior, se ha creado un fichero Markdown (TrabajoTema6.md) que será una réplica de este mismo documento pero en formato Markdown. Para su realización vamos a utilizar el editor Typora que nos permitirá realizar dicho trabajo de una forma más rápida.
 
-![image-20210214035535459](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img17.png)
+![image-20210214035535459](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img18.png)
 
 
 
