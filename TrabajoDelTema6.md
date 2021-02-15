@@ -96,7 +96,7 @@ RECURSOS:
 
 ​	Hemos añadido unos cambios a nuestro fichero Markdown, sin embargo no queremos que dichos cambios suban por el momento.
 
-![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img14.png) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img15.png) 
  
 
 ​	Para evitar que dichos cambios suban, procedemos a "borrarlos" del control de cambios mediante un reset.
@@ -106,7 +106,7 @@ RECURSOS:
 
 ​	Procedemos a descartar dichos cambios definitivamente.
 
-![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img16.png) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img17.png) 
  
 
 # 5 Uso de Markdown
