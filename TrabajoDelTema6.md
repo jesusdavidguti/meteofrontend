@@ -41,79 +41,79 @@ RECURSOS:
 
 ​	Los nuevos repositorios para backend y frontend serían los siguientes: 
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_9dd50a7e3ebb4670.png) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img2.png) 
  
 
 # 2 **Clave SSH**
 
 ​	Como se puede ver en el acceso desde la web, se configuró una clave SSH para acceso desde la máquina virtual de casa.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_1a23e5778d1e013a.png) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img3.png) 
  
 
 ​	Comprobamos en nuestra máquina virtual si, efectivamente, tenemos ya creada nuestra clave accediendo al directorio ~/.ssh
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_32547d58e4c0e60.png) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img4.png) 
 
 # **3** **Uso de los comandos más frecuentes**
 
 ​	Como se puede apreciar, la parte frontend aún no ha sido clonada en local, por lo que vamos a realizar dicha operación así como algunos cambios en el código.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_69614ad38c47c7c5.png) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img5.png) 
  
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_2551d91d4a44dcc3.png) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img6.png) 
  
 
 ​	Una vez clonado, vamos a realizar algunas operaciones básicas. Aún no hemos hecho cambios de ningún tipo.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_9a980c51f611c378.png) ![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_ad86c9077db59e9e.png) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img7.png) ![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img8.png) 
 
 
 ​	Hemos creado tres nuevos ficheros con la extensión "svelte" que vamos a añadir a nuestro proyecto Github de la siguiente forma.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_45a6526fb3b7db2.jpg) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img9.png) 
  
 
 ​	Hemos creado también un fichero Markdown donde recogeremos este mismo documento para añadirlo al proyecto. Comprobamos el estado actual del mismo.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_e63fb4e1f6a62548.jpg) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img10.png) 
  
 
 ​	Comprobamos también los commits realizados.
 
-​	![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_c8801d7d072836a9.jpg)
+​	![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img11.png)
 
 ​	Añadimos el nuevo fichero y comprobamos el log para ver el estado actual de los cambios.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_c9795806c16971b4.jpg) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img12.png) 
  
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_50755a00f06f583.jpg) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img13.png) 
 
 
 # 4 Comandos más avanzados
 
 ​	Hemos añadido unos cambios a nuestro fichero Markdown, sin embargo no queremos que dichos cambios suban por el momento.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_1c640c68f7014bae.jpg) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img14.png) 
  
 
 ​	Para evitar que dichos cambios suban, procedemos a "borrarlos" del control de cambios mediante un reset.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_c6452d703dc3a902.jpg) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img15.png) 
  
 
 ​	Procedemos a descartar dichos cambios definitivamente.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_fe8a93543dc9829d.jpg) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img16.png) 
  
 
 # 5 Uso de Markdown
 
 ​	Como se indica en el punto anterior, se ha creado un fichero Markdown (TrabajoTema6.md) que será una réplica de este mismo documento pero en formato Markdown. Para su realización vamos a utilizar el editor Typora que nos permitirá realizar dicho trabajo de una forma más rápida.
 
-![image-20210214035535459](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20210214035535459.png)
+![image-20210214035535459](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img17.png)
 
 
 
