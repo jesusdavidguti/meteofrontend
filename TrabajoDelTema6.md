@@ -36,7 +36,7 @@ RECURSOS:
 
 ​	Estos son algunos de los repositorios ya creados o "forkeados" por el usuario **jesusdavidguti**.
 
-![img](file:///C:/Users/Usuario/AppData/Local/Temp/lu269620kd4j.tmp/lu269620kdnf_tmp_5a008b29cdc7c961.png) 
+![img](https://github.com/jesusdavidguti/meteofrontend/blob/main/img/img1.png) 
  
 
 ​	Los nuevos repositorios para backend y frontend serían los siguientes: 
