@@ -6,14 +6,14 @@
 </script>
 
 <style>
-  /* Aquí el código CSS */
-  /* Consultar el código fuente */
+  main {
+    padding: 20px;
+    padding-top: 50px;
+  }
 </style>
 
-<main>
-  <!-- Se eliminan etiquetas html para resaltar lo esencial -->
-  <!-- Consulta el código fuente. --> 
-  <Route path="/"           component={Inicio} />
-  <Route path="/articulos"  component={Articulos} />
-  <Route path="/clientes"   component={Clientes} />
+<main id="contenido">
+  <Route path="/" component={Inicio} />
+  <Route path="/articulos" component={Articulos} />
+  <Route path="/clientes" component={Clientes} />
 </main>
