@@ -54,7 +54,7 @@
   }
 </style>
 
-<h1>Tienda Frontend</h1>
+<h1>Meteo Frontend</h1>
 <p>
   <small>
     <b>Progressive Web App (PWA)</b>
@@ -63,8 +63,8 @@
 <p>
   <small>
     Backend en
-    <a href="https://tiendabackend.herokuapp.com">
-      https://tiendabackend.herokuapp.com
+    <a href="https://meteobackend.herokuapp.com">
+      https://meteobackend.herokuapp.com
     </a>
   </small>
 </p>
@@ -78,20 +78,27 @@
     </div>
   </Link>
 
-  <Link to="/articulos">
+  <Link to="/avisos">
     <div class="resumen">
-      <span class="opcion">🎁 Artículos</span>
+      <span class="opcion">🎁 Avisos</span>
       <span class="descripcion">
-        Operaciones CRUD de artículos en una BD.
+        Operaciones CRUD de avisos meteorológicos en una BD.
       </span>
     </div>
   </Link>
-
-  <Link to="/clientes">
+  <Link to="/fenomenos">
     <div class="resumen">
-      <span class="opcion">👥 Clientes</span>
+      <span class="opcion">🎁 Fenómenos</span>
       <span class="descripcion">
-        Operaciones CRUD de clientes en una BD.
+        Operaciones CRUD de fenómenos meteorológicos en una BD.
+      </span>
+    </div>
+  </Link>
+  <Link to="/previsiones">
+    <div class="resumen">
+      <span class="opcion">🎁 Previsiones</span>
+      <span class="descripcion">
+        Operaciones CRUD de previsiones meteorológicas en una BD.
       </span>
     </div>
   </Link>
@@ -101,8 +108,8 @@
   <small>
     <b>
       Código fuente en
-      <a href="https://github.com/jamj2000/tiendafrontend">
-        https://github.com/jamj2000/tiendafrontend
+      <a href="https://github.com/jesusdavidguti/meteofrontend">
+        https://github.com/jesusdavidguti/meteofrontend
       </a>
     </b>
   </small>

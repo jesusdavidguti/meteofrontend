@@ -19,10 +19,7 @@
 
 <main id="contenido">
   <Route path="/" component={Inicio} />
-  <!-- 
-  <Route path="/articulos" component={Articulos} />
-  <Route path="/clientes" component={Clientes} /> 
-  -->
+
   <Route path="/avisos" component={Avisos} />
   <Route path="/fenomenos" component={Fenomenos} />    
   <Route path="/previsiones" component={Previsiones} />  
