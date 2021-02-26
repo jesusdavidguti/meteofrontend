@@ -106,23 +106,23 @@
   <ul class="menu">
     <li class="logo">
       <Link to="/">
-        <span class="inicio">🛒</span>
+        <span class="inicio">🌀</span>
       </Link>
     </li>
 
     <li class="item active">
       <Link to="/avisos">
-        <span class="avisos">🎁</span>
+        <span class="avisos">🌪️</span>
       </Link>
     </li>
     <li class="item active">
       <Link to="/fenomenos">
-        <span class="fenomenos">🎁</span>
+        <span class="fenomenos">❄️</span>
       </Link>
     </li>
     <li class="item active">
       <Link to="/previsiones">
-        <span class="previsiones">🎁</span>
+        <span class="previsiones">⛅</span>
       </Link>
     </li>
 

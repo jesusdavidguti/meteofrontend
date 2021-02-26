@@ -73,14 +73,14 @@
 <div class="bloque">
   <Link to="/">
     <div class="resumen">
-      <span class="opcion">🛒 Inicio</span>
+      <span class="opcion">🌀 Inicio</span>
       <span class="descripcion">Esta página de información.</span>
     </div>
   </Link>
 
   <Link to="/avisos">
     <div class="resumen">
-      <span class="opcion">🎁 Avisos</span>
+      <span class="opcion">🌪️ Avisos</span>
       <span class="descripcion">
         Operaciones CRUD de avisos meteorológicos en una BD.
       </span>
@@ -88,7 +88,7 @@
   </Link>
   <Link to="/fenomenos">
     <div class="resumen">
-      <span class="opcion">🎁 Fenómenos</span>
+      <span class="opcion">❄️ Fenómenos</span>
       <span class="descripcion">
         Operaciones CRUD de fenómenos meteorológicos en una BD.
       </span>
@@ -96,7 +96,7 @@
   </Link>
   <Link to="/previsiones">
     <div class="resumen">
-      <span class="opcion">🎁 Previsiones</span>
+      <span class="opcion">⛅ Previsiones</span>
       <span class="descripcion">
         Operaciones CRUD de previsiones meteorológicas en una BD.
       </span>
