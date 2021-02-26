@@ -4,13 +4,21 @@
   import Nav            from "./Nav.svelte";
   import Contenido      from "./Contenido.svelte";
   
+  // API Heroku
   const URL = {
     avisos:       "https://meteobackend.herokuapp.com/api/avisos/",    
     fenomenos:    "https://meteobackend.herokuapp.com/api/fenomenos/",
     previsiones:  "https://meteobackend.herokuapp.com/api/previsiones/"
   };
 
-  setContext("URL", URL);
+  // API localhost
+  const LOCAL_URL = {
+    avisos:       "localhost:3000/api/avisos/",    
+    fenomenos:    "localhost:3000/api/fenomenos/",
+    previsiones:  "localhost:3000/api/previsiones/"
+  };
+
+  setContext("URL", LOCAL_URL);
 </script>
 
 <style>
