@@ -18,7 +18,7 @@
     previsiones:  "localhost:3000/api/previsiones/"
   };
 
-  setContext("URL", LOCAL_URL);
+  setContext("URL", URL);
 </script>
 
 <style>

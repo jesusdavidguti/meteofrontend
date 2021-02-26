@@ -69,21 +69,22 @@
     }
 
     .inicio::after,
-    .articulos::after,
-    .clientes::after {
+    .avisos::after,
+    .fenomenos::after,    
+    .previsiones::after{
       display: inline-block;
       padding-left: 10px;
     }
 
-    .inicio::after {
-      content: "Inicio";
+    .avisos::after{
+      content: "Avisos";
     }
-    .articulos::after {
-      content: "Artículos";
-    }
-    .clientes::after {
-      content: "Clientes";
-    }
+    .fenomenos::after{
+      content: "Fenómenos";
+    }    
+    .previsiones::after{
+      content: "Previsiones";
+    }    
   }
   /* PC */
   @media all and (min-width: 900px) {
@@ -108,15 +109,22 @@
         <span class="inicio">🛒</span>
       </Link>
     </li>
+
     <li class="item active">
-      <Link to="/articulos">
-        <span class="articulos">🎁</span>
+      <Link to="/avisos">
+        <span class="avisos">🎁</span>
       </Link>
     </li>
     <li class="item active">
-      <Link to="/clientes">
-        <span class="clientes">👥</span>
+      <Link to="/fenomenos">
+        <span class="fenomenos">🎁</span>
       </Link>
     </li>
+    <li class="item active">
+      <Link to="/previsiones">
+        <span class="previsiones">🎁</span>
+      </Link>
+    </li>
+
   </ul>
 </nav>
